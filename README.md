@@ -9,7 +9,7 @@
 <p align="center">
   <h3 align="center"><a href="https://github.com/learnwithsumit/jspt-3">Part 3 - JavaScript Pro Tips - Learn with Sumit</a></h3>
 
-[![View on Youtube](http://img.youtube.com/vi/E9_R88eKcBM/0.jpg)](https://youtu.be/E9_R88eKcBM)
+[![View on Youtube](http://img.youtube.com/vi/U7jIVDdM0fw/0.jpg)](https://youtu.be/E9_R88eKcBM)
 
 <!-- TABLE OF CONTENTS -->
 
