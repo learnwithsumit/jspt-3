@@ -30,9 +30,9 @@ Different lessons taught in the Youtube Tutorial are organized in separate files
 
 Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Project Link: [https://github.com/learnwithsumit/jspt-2](https://github.com/learnwithsumit/jspt-1)
+Project Link: [https://github.com/learnwithsumit/jspt-3](https://github.com/learnwithsumit/jspt-3)
 
-Youtube Video Link: [https://lwsbd.link/jspt2](https://lwsbd.link/jspt2)
+Youtube Video Link: [https://lwsbd.link/jspt3](https://lwsbd.link/jspt3)
 
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
